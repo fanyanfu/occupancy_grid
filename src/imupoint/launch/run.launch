@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="imupoint" type="imupoint" name="rosbagregist" output="screen" />
+</launch>
